@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **yogesh.dhande@.com**
+- 📫 How to reach me **yogesh.dhande@haptiq.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
